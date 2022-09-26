@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning python, django, drf
 - 👯 I’m looking for a role of python-developer
 - 📫 How to reach me: tg: @pvlrey
-- ⚡ Fun fact: Snakes can predict earthquakes.
+- ⚡ Located in Vilnius
